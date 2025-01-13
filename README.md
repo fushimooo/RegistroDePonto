@@ -7,4 +7,4 @@
 
 ## Na opção 2, ele abre a lista de usuarios existentes no diretório especificado, ao selecionar, o usuário poderá marcar sua saída ou entrada. 2️⃣
 
-### O programa gera no arquivo xml a data e hora exata em que o ponto foi registrado, gerando assim um controle melhor. ⌚
+### O programa gera no arquivo xml, a data e hora exata em que o ponto foi registrado, gerando assim um controle melhor. ⌚
